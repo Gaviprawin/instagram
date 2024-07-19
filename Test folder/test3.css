@@ -1,0 +1,27 @@
+body{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+
+}
+.h11{
+    text-align: center;
+    color: white;
+}
+.box{
+    background-color: white;
+    width: 250px;
+    height: 32vh;
+    margin-left: 42%;
+    padding-top: 5%;
+}
+.button{
+    background-color: orangered;
+    color: white;
+    align-items: center;
+    margin-left: 30%;
+    margin-top: 25%;
+}
+.button:hover{
+    font-size: medium;
+    background-color: white ;
+}

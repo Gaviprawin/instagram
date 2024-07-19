@@ -1,0 +1,47 @@
+body{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+.box1{
+    background-color: white;
+    width: 350px;
+    height: 340px;
+    margin-top: 10%;
+    box-shadow: 3px 6px 9px 0px violet;
+    align-items: center;
+    margin-left: 38%;
+    margin-top: 5%;
+}
+.h1{
+    text-align: center;
+    
+}
+.content{
+    margin-left: 25%;
+}
+.button{
+    margin-left: 40%;
+    background-color: indianred;
+    color: white;
+    font-size: medium;
+    border-color: indianred;
+    width: 19%;
+    height: 10%;
+
+}
+.footer{
+    background-color: ghostwhite;
+    width: 100%;
+    height: auto;
+    margin: 0%;
+    display: flex;
+    margin-top: 5%;
+    
+
+
+}
+.head{
+    font-size:large;
+    color: red;
+    
+}
